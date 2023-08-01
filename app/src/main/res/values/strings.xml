@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="reset">RESET</string>
+    <string name="score_x_0">Score X:-0</string>
+    <string name="score_y_0">Score Y:-0</string>
+    <string name="welcome_to_tic_tac_toe">Welcome to Tic Tac Toe</string>
+</resources>
